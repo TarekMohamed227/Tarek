@@ -1,0 +1,13 @@
+nav
+{
+    background-color:darkslategray;
+    position: sticky;
+    top: 0%;
+   
+}
+
+nav .right-side
+{
+    display:flex;
+}
+nav
